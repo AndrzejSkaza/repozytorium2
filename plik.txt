@@ -1,1 +1,4 @@
  moj plik jest zly.
+
+
+ Dodanie nowej , eksperymentalnej funkcjonalnosci.
